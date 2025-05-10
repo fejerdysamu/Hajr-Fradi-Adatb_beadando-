@@ -1,4 +1,5 @@
 # Hajr-Fradi-Adatb_beadando-
+phpMyAdmin-ban készült az SQL adatbázis
 Készítette: Orosz Gergő Bence és Fejérdy Samu Vilmos
 Adatbázis leírása: 
   Labdarúgó bajnokság mérkőzéseinek nyílvántartása
